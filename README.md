@@ -1,1 +1,1 @@
-not empty
+redirect
